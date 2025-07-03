@@ -6,7 +6,7 @@ Hi there! I'm a data analyst with a clinical background, focused on bridging the
 
 ## 🔍 What I Do
 
-- Transform raw data into actionable insights using **Power BI**, **Python**, and **SQL**
+- Transform raw data into actionable insights using **MS Excel**,**Power BI**, **Python**, and **SQL**
 - Design intuitive, role-specific dashboards for clinical, strategic and business teams
 - Analyze healthcare operations to support better **device adoption**, **training efficiency** and **patient care**
 - Work across teams to simplify technical data for **non-technical stakeholders**
@@ -15,14 +15,25 @@ Hi there! I'm a data analyst with a clinical background, focused on bridging the
 
 ## 📁 Featured Projects
 
+
+### 🏥 Hospital Admission Dashboard *(Excel)*  
+📥 [Download Excel File](https://drive.google.com/uc?export=download&id=1FwMWtNNVTYlIFM44F9gP6j_jkMvIsPPP)  
+An interactive Excel dashboard analyzing over 14,000+ hospital admissions from a tertiary care cardiac center in India (2017–2019). This dashboard highlights key patient and operational metrics through slicers, pivot charts, and conditional formatting. 
+ 
+#### 🔑 Key Highlights:
+- **Admissions Trend:** Monthly/yearly hospital admissions visualized to track seasonal variation  
+- **Age Distribution:** Interactive histogram filtered by gender and year  
+- **Patient Outcomes:** Breakdown of mortality vs. discharge cases with contextual filters  
+- **Age Group vs Outcome Chart**: Analyzes how age brackets (0–20, 21–40, ..., 101–120) relate to mortality and discharge rates — helping highlight at-risk groups  
+- **Lifestyle Factors:** Alcohol, smoking, and dual usage patterns by demographic  
+- **Dashboard Interactivity:** Slicers for year, month, gender; clean layout and theme  
+- **Techniques Used:** Pivot Tables, Slicers, Conditional Formatting, IF formulas, dynamic charts
+
+---
+
+
 ### 📊 [Netflix User Insights Dashboard](#) *(Power BI)*
 Multi-page, interactive dashboard tailored for marketing and content strategy teams to explore viewing patterns and KPIs.
-
-### 🏥 [Medical Device Usage & Adoption Analysis](#)
-Analyzed device logs and training data to identify gaps in onboarding and improve clinical support workflows.
-
-### 📈 [Hospital Admission Trends (Python + SQL)](#)
-Explored real-world hospital admission data to uncover seasonal patterns, flow bottlenecks, and resource gaps.
 
 ---
 
