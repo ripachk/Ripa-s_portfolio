@@ -31,12 +31,6 @@ An interactive Excel dashboard analyzing over 14,000+ hospital admissions from a
 
 ---
 
-
-### 📊 [Netflix User Insights Dashboard](#) *(Power BI)*
-Multi-page, interactive dashboard tailored for marketing and content strategy teams to explore viewing patterns and KPIs.
-
----
-
 ## 💼 Core Skills
 
 **Languages & Tools:**  
