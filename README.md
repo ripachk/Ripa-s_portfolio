@@ -17,7 +17,7 @@ Hi there! I'm a data analyst with a clinical background, focused on bridging the
 
 
 ### 🏥 Hospital Admission Dashboard *(Excel)*  
-📥 [Download Excel File](https://drive.google.com/uc?export=download&id=1FwMWtNNVTYlIFM44F9gP6j_jkMvIsPPP)  
+📥 [Hospital Admission Dashboard (Excel)](https://github.com/ripachk/Hospital-Admission-Dashboard-Excel-)
 An interactive Excel dashboard analyzing over 14,000+ hospital admissions from a tertiary care cardiac center in India (2017–2019). This dashboard highlights key patient and operational metrics through slicers, pivot charts, and conditional formatting. 
  
 #### 🔑 Key Highlights:
@@ -49,7 +49,7 @@ Clinical workflows | Medical device onboarding | Post-sales training | Zoho CRM 
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** www.linkedin.com/in/ripa-chakrabarty-5b229b186 
+- **LinkedIn:** www.linkedin.com/in/ripachakrabarty
 - **Email:** ripachakrabartypft@gmail.com
 
 ---
