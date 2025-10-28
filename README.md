@@ -1,15 +1,15 @@
 # 👩‍⚕️📊 Data Analyst | Healthcare | Clinical Workflow Optimization
 
-Hi there! I'm a data analyst with a clinical background, focused on bridging the gap between healthcare data and real-world impact. I specialize in building insightful dashboards, analyzing clinical trends, and optimizing workflows to improve healthcare outcomes and decision-making.
+Hi there! I'm an aspiring Data Analyst with a clinical background, passionate about bridging the gap between healthcare data and real-world outcomes. Currently on a journey to strengthen my analytical and visualization skills, I enjoy transforming raw data into meaningful insights that drive smarter decisions.
 
 ---
 
 ## 🔍 What I Do
 
-- Transform raw data into actionable insights using **MS Excel**,**Power BI**, **Python**, and **SQL**
-- Design intuitive, role-specific dashboards for clinical, strategic and business teams
-- Analyze healthcare operations to support better **device adoption**, **training efficiency** and **patient care**
-- Work across teams to simplify technical data for **non-technical stakeholders**
+- Turn complex data into actionable insights using **MS Excel**,**Power BI**, **Python**, and **SQL**
+- Build interactive, role-specific dashboards for clinical, strategic, and business use
+- Analyze healthcare workflows to enhance **device adoption**, **training efficiency** and **patient care**
+-Collaborate across teams to simplify data storytelling for **non-technical stakeholders**
 
 ---
 
